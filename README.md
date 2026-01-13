@@ -56,4 +56,4 @@
 > [!TIP]
 > ### 📬 Get in touch
 > Have a question or want to collaborate?  
-> **[Click here to send me an email](mailto:jayden.imel@icloud.com?subject=Inquiry%20from%20GitHub)**
+> [![Email](https://img.shields.io/badge/Email-jayden.imel%40icloud.com-blue?style=flat-square&logo=icloud)](mailto:jayden.imel@icloud.com)
