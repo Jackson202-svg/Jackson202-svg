@@ -43,10 +43,17 @@
 ### 🤝 Connect with me
 
 <p align="left">
-  <a href="https://github.com/Jackson202-svg" target="blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="Github" height="40" />
+  <a href="https://github.com/Jackson202-svg" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://stackoverflow.com/users/palmy-flask" target="blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow" height="40" />
+  <a href="https://stackoverflow.com/users/palmy-flask" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
   </a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
 </p>
+
+> [!TIP]
+> ### 📬 Get in touch
+> Have a question or want to collaborate?  
+> **[Click here to send me an email](mailto:jayden.imel@icloud.com?subject=Inquiry%20from%20GitHub)**
